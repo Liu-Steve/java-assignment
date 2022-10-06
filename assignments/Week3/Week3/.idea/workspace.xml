@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cec7fab7-28a1-41a4-9b0f-bdbd55b24991" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/MiniApplicationContext.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/example/MainAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/example/config/BookConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/example/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/example/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/example/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/example/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/ioc/context/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/ioc/context/XmlContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/ioc/util/BeanDefination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/java/edu/whu/ioc/util/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/src/main/resources/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/classes/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/css/maven-base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/css/maven-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/dependencies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/dependency-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/collapsed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/expanded.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/external.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/icon_error_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/icon_info_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/icon_success_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/icon_warning_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/logos/build-by-maven-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/logos/build-by-maven-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/logos/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/images/newwindow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/plugin-management.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/plugins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/project-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniApplicationContext/target/site/project-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.8.5" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2F7XGL5FWMrFA0IgSKnm9bitWAu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/_program/Java/java-assignment/assignments/Week3/MiniApplicationContext",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "23f16719fd06f5bb02e73564c88123b7"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MainAnnotation">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.whu.Main" />
+      <module name="Week3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.whu.MainAnnotation" />
+      <module name="Week3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainAnnotation" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec7fab7-28a1-41a4-9b0f-bdbd55b24991" name="Changes" comment="" />
+      <created>1663844000737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663844000737</updated>
+      <workItem from="1663844002132" duration="5105000" />
+      <workItem from="1663849660550" duration="1484000" />
+      <workItem from="1664198528700" duration="1356000" />
+      <workItem from="1664253057258" duration="194000" />
+      <workItem from="1664253265476" duration="1682000" />
+      <workItem from="1664275634702" duration="2356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanDefinitionStoreException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

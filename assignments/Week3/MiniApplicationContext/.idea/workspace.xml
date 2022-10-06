@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6ba68f0-67b1-4427-9733-22cfe9cc6b18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniApplicationContext.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/context/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/context/XmlContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/BeanConstructException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/BeanInjectException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/BeanNotExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/ContextException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/XmlParseContextException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/XmlReadContextException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/util/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/util/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/util/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/util/XmlConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/config/BookConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/test/TestInject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/ioc/context/ContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/ioc/context/XmlContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/ioc/util/StringUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/ioc/util/XmlConfigReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/empty.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/css/maven-base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/css/maven-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/dependencies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/collapsed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/expanded.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/external.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/newwindow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/project-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/project-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week3/Week3.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.8.5" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2F7jPrQHxy9sL06joQ0jQKCVzs3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/_program/Java/java-assignment/assignments/Week3/MiniApplicationContext&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;61d3b29dd3c90ee4aaf4473b37850b68&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\_program\Java\java-assignment\assignments\Week3\MiniApplicationContext\src\main\java\edu\whu\example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\_program\Java\java-assignment\assignments\Week3\MiniApplicationContext\src\test\resources" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.whu.ioc.context" />
+      <recent name="edu.whu.ioc.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.XmlConfigReaderTest">
+    <configuration name="ContextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MiniApplicationContext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.ioc.context.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.ioc.context" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.ioc.context.ContextTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContextTest.injectReferenceType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MiniApplicationContext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.ioc.context.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.ioc.context" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.ioc.context.ContextTest" />
+      <option name="METHOD_NAME" value="injectReferenceType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MiniApplicationContext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.ioc.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.ioc.util" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.ioc.util.StringUtilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlConfigReaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MiniApplicationContext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.ioc.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.ioc.util" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.ioc.util.XmlConfigReaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlContextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MiniApplicationContext" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.ioc.context.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.ioc.context" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.ioc.context.XmlContextTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.XmlConfigReaderTest" />
+        <item itemvalue="JUnit.StringUtilTest" />
+        <item itemvalue="JUnit.XmlContextTest" />
+        <item itemvalue="JUnit.ContextTest" />
+        <item itemvalue="JUnit.ContextTest.injectReferenceType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6ba68f0-67b1-4427-9733-22cfe9cc6b18" name="Changes" comment="" />
+      <created>1663849996546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663849996546</updated>
+      <workItem from="1663849998957" duration="1450000" />
+      <workItem from="1664189955359" duration="3292000" />
+      <workItem from="1664250669448" duration="2137000" />
+      <workItem from="1664253265476" duration="7211000" />
+      <workItem from="1664279311980" duration="2560000" />
+      <workItem from="1664324014882" duration="2151000" />
+      <workItem from="1664341009627" duration="21834000" />
+      <workItem from="1664590324135" duration="9749000" />
+      <workItem from="1664895315995" duration="626000" />
+      <workItem from="1664949840820" duration="1586000" />
+      <workItem from="1664973061540" duration="8321000" />
+      <workItem from="1665033071054" duration="4388000" />
+      <workItem from="1665049124942" duration="11005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$XmlContextTest_updateStartClass.ic" NAME="XmlContextTest.updateStartClass Coverage Results" MODIFIED="1664990399239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.context.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$XmlConfigReaderTest.ic" NAME="XmlConfigReaderTest Coverage Results" MODIFIED="1665062700746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$ContextTest_constructBean.ic" NAME="ContextTest.constructBean Coverage Results" MODIFIED="1665058813899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.context.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$XmlContextTest_getBean.ic" NAME="XmlContextTest.getBean Coverage Results" MODIFIED="1665057607027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.context.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$XmlContextTest_getXmlDocument.ic" NAME="XmlContextTest.getXmlDocument Coverage Results" MODIFIED="1665058123044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.context.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$XmlConfigReaderTest_load.ic" NAME="XmlConfigReaderTest.load Coverage Results" MODIFIED="1665055901009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$ContextTest_injectBean.ic" NAME="ContextTest.injectBean Coverage Results" MODIFIED="1665059583073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.context.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$ContextTest_injectReferenceType.ic" NAME="ContextTest.injectReferenceType Coverage Results" MODIFIED="1665062202471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.context.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$XmlConfigReaderTest_elementToBean.ic" NAME="XmlConfigReaderTest.elementToBean Coverage Results" MODIFIED="1665056548877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$XmlContextTest.ic" NAME="XmlContextTest Coverage Results" MODIFIED="1665062680431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.context.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$ContextTest.ic" NAME="ContextTest Coverage Results" MODIFIED="1665062627853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.context.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$StringUtilTest.ic" NAME="StringUtilTest Coverage Results" MODIFIED="1665062692381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$XmlConfigReaderTest_documentToBeans.ic" NAME="XmlConfigReaderTest.documentToBeans Coverage Results" MODIFIED="1665056956132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniApplicationContext$ContextTest_injectSimpleType.ic" NAME="ContextTest.injectSimpleType Coverage Results" MODIFIED="1665060627162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.whu.ioc.context.*</FILTER>
+    </SUITE>
+  </component>
+</project>
