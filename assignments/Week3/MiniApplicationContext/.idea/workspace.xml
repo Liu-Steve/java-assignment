@@ -5,67 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6ba68f0-67b1-4427-9733-22cfe9cc6b18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiniApplicationContext.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/context/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/context/XmlContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/BeanConstructException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/BeanInjectException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/BeanNotExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/ContextException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/XmlParseContextException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/excepetion/XmlReadContextException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/util/BeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/util/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/util/StringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/ioc/util/XmlConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/config/BookConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/example/test/TestInject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/ioc/context/ContextTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/ioc/context/XmlContextTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/ioc/util/StringUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/ioc/util/XmlConfigReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/empty.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/css/maven-base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/css/maven-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/css/print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/dependencies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/close.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/collapsed.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/expanded.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/external.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/images/newwindow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/project-info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/project-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week3/Week3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +181,10 @@
       <workItem from="1664949840820" duration="1586000" />
       <workItem from="1664973061540" duration="8321000" />
       <workItem from="1665033071054" duration="4388000" />
-      <workItem from="1665049124942" duration="11005000" />
+      <workItem from="1665049124942" duration="11726000" />
+      <workItem from="1665221971700" duration="920000" />
+      <workItem from="1665231401562" duration="1160000" />
+      <workItem from="1665299626927" duration="59000" />
     </task>
     <servers />
   </component>
