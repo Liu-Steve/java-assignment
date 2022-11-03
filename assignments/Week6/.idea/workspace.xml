@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0920392c-e28f-4c9c-9602-1951b3ad28be" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/condition/ProductCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/condition/SupplierCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/config/MpConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/controller/SupplierController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/dao/SupplierDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/entity/Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/exception/ConflictException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/exception/ExceptionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/exception/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/exception/NotSupportArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/exception/SqlExecuteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/mapper/xml/ProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/mapper/xml/SupplierMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/service/ISupplierService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/service/impl/SupplierServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/java/edu/whu/week6/util/IdGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/test/java/edu/whu/week6/service/impl/ProductServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/src/test/java/edu/whu/week6/service/impl/SupplierServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/target/test-classes/edu/whu/week6/service/impl/ProductServiceImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-code/target/test-classes/edu/whu/week6/service/impl/SupplierServiceImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-generator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-generator/src/main/java/edu/whu/CodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-generator/target/classes/edu/whu/CodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../notes/Week6/Week6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week5/src/test/java/edu/whu/week5/service/ProductServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week5/src/test/java/edu/whu/week5/service/ProductServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GiZsYCl3vfB7GcYbFqj8dHsgs4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "1.8 (2)",
+    "last_opened_file_path": "E:/_program/Java/java-example/springboot-mybatis-plus",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "550367293323a61e64d7e1f1d87ae319"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.whu.week6.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SupplierServiceImplTest">
+    <configuration name="ProductServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.week6.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.week6.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.week6.service.impl.ProductServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceImplTest.deleteProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.week6.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.week6.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.week6.service.impl.ProductServiceImplTest" />
+      <option name="METHOD_NAME" value="deleteProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceImplTest.selectProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.week6.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.week6.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.week6.service.impl.ProductServiceImplTest" />
+      <option name="METHOD_NAME" value="selectProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupplierServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.week6.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.week6.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.week6.service.impl.SupplierServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupplierServiceImplTest.addSupplier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.week6.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.week6.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.week6.service.impl.SupplierServiceImplTest" />
+      <option name="METHOD_NAME" value="addSupplier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProductServiceImplTest" />
+      <item itemvalue="JUnit.ProductServiceImplTest.deleteProduct" />
+      <item itemvalue="JUnit.ProductServiceImplTest.selectProduct" />
+      <item itemvalue="JUnit.SupplierServiceImplTest" />
+      <item itemvalue="JUnit.SupplierServiceImplTest.addSupplier" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SupplierServiceImplTest" />
+        <item itemvalue="JUnit.SupplierServiceImplTest.addSupplier" />
+        <item itemvalue="JUnit.ProductServiceImplTest.selectProduct" />
+        <item itemvalue="JUnit.ProductServiceImplTest" />
+        <item itemvalue="JUnit.ProductServiceImplTest.deleteProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0920392c-e28f-4c9c-9602-1951b3ad28be" name="变更" comment="" />
+      <created>1666873573709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666873573709</updated>
+      <workItem from="1666873575404" duration="3202000" />
+      <workItem from="1667215549160" duration="692000" />
+      <workItem from="1667216253888" duration="4424000" />
+      <workItem from="1667264363019" duration="23792000" />
+      <workItem from="1667358190255" duration="21619000" />
+      <workItem from="1667405078730" duration="17798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
