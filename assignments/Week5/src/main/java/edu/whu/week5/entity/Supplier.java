@@ -25,6 +25,8 @@ public class Supplier {
 
     String phone;
 
+    String email;
+
     @ManyToMany(mappedBy = "suppliers")
     List<Product> products;
 
