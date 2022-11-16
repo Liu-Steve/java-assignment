@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0920392c-e28f-4c9c-9602-1951b3ad28be" name="变更" comment="变更">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week7/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;1257e87ed9c9bee4288c8b8be0074f88&quot;
+    &quot;spring.configuration.checksum&quot;: &quot;e43ed9c39cf633be3cc58d15e283b27b&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
@@ -74,12 +74,12 @@
       <module name="mybatis-plus-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.whu.week7.service.impl.*" />
+          <option name="PATTERN" value="edu.whu.week8.service.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="edu.whu.week6.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="edu.whu.week7.service.impl.ProductServiceImplTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.week8.service.impl.ProductServiceImplTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,12 +89,12 @@
       <module name="mybatis-plus-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.whu.week7.service.impl.*" />
+          <option name="PATTERN" value="edu.whu.week8.service.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="edu.whu.week6.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="edu.whu.week7.service.impl.ProductServiceImplTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.week8.service.impl.ProductServiceImplTest" />
       <option name="METHOD_NAME" value="deleteProduct" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -105,12 +105,12 @@
       <module name="mybatis-plus-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.whu.week7.service.impl.*" />
+          <option name="PATTERN" value="edu.whu.week8.service.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="edu.whu.week6.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="edu.whu.week7.service.impl.ProductServiceImplTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.week8.service.impl.ProductServiceImplTest" />
       <option name="METHOD_NAME" value="selectProduct" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -121,12 +121,12 @@
       <module name="mybatis-plus-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.whu.week7.service.impl.*" />
+          <option name="PATTERN" value="edu.whu.week8.service.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="edu.whu.week6.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="edu.whu.week7.service.impl.SupplierServiceImplTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.week8.service.impl.SupplierServiceImplTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,12 +136,12 @@
       <module name="mybatis-plus-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.whu.week7.service.impl.*" />
+          <option name="PATTERN" value="edu.whu.week8.service.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="edu.whu.week6.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="edu.whu.week7.service.impl.SupplierServiceImplTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.week8.service.impl.SupplierServiceImplTest" />
       <option name="METHOD_NAME" value="addSupplier" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -191,6 +191,9 @@
       <workItem from="1667974578508" duration="44000" />
       <workItem from="1667975758899" duration="10333000" />
       <workItem from="1668224651321" duration="603000" />
+      <workItem from="1668514717109" duration="850000" />
+      <workItem from="1668559717766" duration="189000" />
+      <workItem from="1668560491027" duration="1780000" />
     </task>
     <servers />
   </component>
