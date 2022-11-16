@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-plus-codegenerator" />
+        <module name="mybatis-plus-code (1)" />
+        <module name="Week3" />
+        <module name="mybatis-plus-code (2)" />
+        <module name="Week2" />
+        <module name="MiniApplicationContext" />
+        <module name="Week4" />
+        <module name="mybatis-plus-codegenerator (1)" />
+        <module name="mybatis-plus-code" />
+        <module name="mybatis-plus-codegenerator (2)" />
+        <module name="week5" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MiniApplicationContext" target="1.8" />
+      <module name="mybatis-plus-code" target="1.8" />
+      <module name="mybatis-plus-code (1)" target="1.8" />
+      <module name="mybatis-plus-code (2)" target="1.8" />
+      <module name="mybatis-plus-codegenerator" target="1.8" />
+      <module name="mybatis-plus-codegenerator (1)" target="1.8" />
+      <module name="mybatis-plus-codegenerator (2)" target="1.8" />
+      <module name="Week2" target="17" />
+      <module name="Week3" target="1.8" />
+      <module name="Week4" target="1.8" />
+      <module name="week5" target="1.8" />
+      <module name="week6" target="1.8" />
+      <module name="week7" target="1.8" />
+      <module name="week8" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Week4" options="-parameters" />
+      <module name="mybatis-plus-code (1)" options="-parameters" />
+      <module name="mybatis-plus-code (2)" options="-parameters" />
+      <module name="mybatis-plus-codegenerator (1)" options="-parameters" />
+      <module name="mybatis-plus-codegenerator (2)" options="-parameters" />
+      <module name="week5" options="-parameters" />
+    </option>
+  </component>
+</project>

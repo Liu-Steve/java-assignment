@@ -63,7 +63,7 @@ public class ProductServiceImpl extends ServiceImpl<ProductDao, Product> impleme
         dao.insert(product);
         // 级联添加Supply关系
         List<Supplier> suppliers = product.getSuppliers();
-        int supplierNum = suppliers.size();
+        int supplierNum = suppliers == null ? 0 : suppliers.size();
         for (int i = 0; i < supplierNum; i++) {
             Supplier supplier = suppliers.get(i);
             String supplierId = supplier.getId();

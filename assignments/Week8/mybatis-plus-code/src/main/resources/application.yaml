@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/order_week_8
+    url: jdbc:mysql://localhost:3306/order_week_8?characterEncoding=utf8
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: root
@@ -14,3 +14,6 @@ spring:
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+jwt:
+  secret: 12448f4ce5e19e34a15af95f53d2b3eff9263e9b92af50e619fb2cb31e7c48f26e6813ba1995cd491d5c78e5bb47b5a301637572ec5f69ce2668d4d509627dc3

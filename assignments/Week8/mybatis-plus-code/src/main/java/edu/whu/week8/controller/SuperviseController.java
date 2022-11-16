@@ -3,6 +3,7 @@ package edu.whu.week8.controller;
 import edu.whu.week8.aspect.SuperviseAspect;
 import edu.whu.week8.aspect.SuperviseResultDto;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -21,6 +22,7 @@ public class SuperviseController {
     }
 
     @GetMapping("")
+    @PreAuthorize("hasAuthority('user/query')")
     public List<SuperviseResultDto> getSuperviseResult() {
         return aspect.getSuperviseResult();
     }

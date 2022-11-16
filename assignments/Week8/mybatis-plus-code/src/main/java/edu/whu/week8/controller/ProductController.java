@@ -10,6 +10,7 @@ import edu.whu.week8.exception.NotSupportArgumentException;
 import edu.whu.week8.exception.SqlExecuteException;
 import edu.whu.week8.service.IProductService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
 /**
@@ -32,21 +33,25 @@ public class ProductController {
     }
 
     @PostMapping("")
+    @PreAuthorize("hasAuthority('user/update')")
     Product addProduct(@RequestBody Product product) throws ConflictException, SqlExecuteException {
         return service.addProduct(product);
     }
 
     @DeleteMapping("/{id}")
+    @PreAuthorize("hasAuthority('user/update')")
     void deleteProduct(@PathVariable String id) throws NotFoundException {
         service.deleteProduct(id);
     }
 
     @GetMapping("/{id}")
+    @PreAuthorize("hasAuthority('user/query')")
     Product getProduct(@PathVariable String id) throws NotFoundException {
         return service.getProduct(id);
     }
 
     @PutMapping("/{id}")
+    @PreAuthorize("hasAuthority('user/update')")
     Product updateProduct(
             @PathVariable String id,
             @RequestBody Product product) throws ConflictException, SqlExecuteException, NotFoundException {
@@ -54,6 +59,7 @@ public class ProductController {
     }
 
     @GetMapping("")
+    @PreAuthorize("hasAuthority('user/query')")
     IPage<Product> selectProduct(
             ProductCondition condition,
             @RequestParam(defaultValue = "0") Integer pageNum,

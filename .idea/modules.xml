@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week3/MiniApplicationContext/MiniApplicationContext.iml" filepath="$PROJECT_DIR$/assignments/Week3/MiniApplicationContext/MiniApplicationContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week2/Week2.iml" filepath="$PROJECT_DIR$/assignments/Week2/Week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week3/Week3/Week3.iml" filepath="$PROJECT_DIR$/assignments/Week3/Week3/Week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week4/Week4.iml" filepath="$PROJECT_DIR$/assignments/Week4/Week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-assignment.iml" filepath="$PROJECT_DIR$/.idea/java-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week6/mybatis-plus-code/mybatis-plus-code.iml" filepath="$PROJECT_DIR$/assignments/Week6/mybatis-plus-code/mybatis-plus-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week7/mybatis-plus-code/mybatis-plus-code (1).iml" filepath="$PROJECT_DIR$/assignments/Week7/mybatis-plus-code/mybatis-plus-code (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week8/mybatis-plus-code/mybatis-plus-code (2).iml" filepath="$PROJECT_DIR$/assignments/Week8/mybatis-plus-code/mybatis-plus-code (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week6/mybatis-plus-generator/mybatis-plus-codegenerator.iml" filepath="$PROJECT_DIR$/assignments/Week6/mybatis-plus-generator/mybatis-plus-codegenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week7/mybatis-plus-generator/mybatis-plus-codegenerator (1).iml" filepath="$PROJECT_DIR$/assignments/Week7/mybatis-plus-generator/mybatis-plus-codegenerator (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week8/mybatis-plus-generator/mybatis-plus-codegenerator (2).iml" filepath="$PROJECT_DIR$/assignments/Week8/mybatis-plus-generator/mybatis-plus-codegenerator (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week5/week5.iml" filepath="$PROJECT_DIR$/assignments/Week5/week5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week6/week6.iml" filepath="$PROJECT_DIR$/assignments/Week6/week6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week7/week7.iml" filepath="$PROJECT_DIR$/assignments/Week7/week7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Week8/week8.iml" filepath="$PROJECT_DIR$/assignments/Week8/week8.iml" />
+    </modules>
+  </component>
+</project>

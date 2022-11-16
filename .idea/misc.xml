@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/assignments/Week2/pom.xml" />
+        <option value="$PROJECT_DIR$/assignments/Week3/Week3/pom.xml" />
+        <option value="$PROJECT_DIR$/assignments/Week3/MiniApplicationContext/pom.xml" />
+        <option value="$PROJECT_DIR$/assignments/Week4/pom.xml" />
+        <option value="$PROJECT_DIR$/assignments/Week5/pom.xml" />
+        <option value="$PROJECT_DIR$/assignments/Week6/pom.xml" />
+        <option value="$PROJECT_DIR$/assignments/Week7/pom.xml" />
+        <option value="$PROJECT_DIR$/assignments/Week8/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

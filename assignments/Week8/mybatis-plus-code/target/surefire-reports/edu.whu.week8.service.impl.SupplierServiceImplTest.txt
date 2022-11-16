@@ -1,0 +1,67 @@
+-------------------------------------------------------------------------------
+Test set: edu.whu.week8.service.impl.SupplierServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 3, Skipped: 0, Time elapsed: 6.316 s <<< FAILURE! - in edu.whu.week8.service.impl.SupplierServiceImplTest
+updateSupplier  Time elapsed: 1.08 s  <<< ERROR!
+org.apache.ibatis.exceptions.PersistenceException: 
+
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+### The error may exist in edu/whu/week8/dao/SupplierDao.java (best guess)
+### The error may involve edu.whu.week8.dao.SupplierDao.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO supplier  ( id, email, name, phone )  VALUES  ( ?, ?, ?, ? )
+### Cause: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.updateSupplier(SupplierServiceImplTest.java:95)
+Caused by: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.updateSupplier(SupplierServiceImplTest.java:95)
+
+getSupplier  Time elapsed: 0.02 s  <<< ERROR!
+org.apache.ibatis.exceptions.PersistenceException: 
+
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+### The error may exist in edu/whu/week8/dao/SupplierDao.java (best guess)
+### The error may involve edu.whu.week8.dao.SupplierDao.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO supplier  ( id, email, name, phone )  VALUES  ( ?, ?, ?, ? )
+### Cause: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.getSupplier(SupplierServiceImplTest.java:78)
+Caused by: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.getSupplier(SupplierServiceImplTest.java:78)
+
+deleteSupplier  Time elapsed: 0.019 s  <<< ERROR!
+org.apache.ibatis.exceptions.PersistenceException: 
+
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+### The error may exist in edu/whu/week8/dao/SupplierDao.java (best guess)
+### The error may involve edu.whu.week8.dao.SupplierDao.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO supplier  ( id, email, name, phone )  VALUES  ( ?, ?, ?, ? )
+### Cause: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.deleteSupplier(SupplierServiceImplTest.java:61)
+Caused by: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.deleteSupplier(SupplierServiceImplTest.java:61)
+
+addSupplier  Time elapsed: 0.082 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+Unexpected exception thrown: org.apache.ibatis.exceptions.PersistenceException: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+### The error may exist in edu/whu/week8/dao/SupplierDao.java (best guess)
+### The error may involve edu.whu.week8.dao.SupplierDao.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO supplier  ( id, email, name, phone )  VALUES  ( ?, ?, ?, ? )
+### Cause: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.addSupplier(SupplierServiceImplTest.java:47)
+Caused by: org.apache.ibatis.exceptions.PersistenceException: 
+
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+### The error may exist in edu/whu/week8/dao/SupplierDao.java (best guess)
+### The error may involve edu.whu.week8.dao.SupplierDao.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO supplier  ( id, email, name, phone )  VALUES  ( ?, ?, ?, ? )
+### Cause: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.lambda$addSupplier$0(SupplierServiceImplTest.java:48)
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.addSupplier(SupplierServiceImplTest.java:47)
+Caused by: java.sql.SQLException: Incorrect string value: '\xE4\xB8\x89\xE6\x98\x9F' for column 'name' at row 1
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.lambda$addSupplier$0(SupplierServiceImplTest.java:48)
+	at edu.whu.week8.service.impl.SupplierServiceImplTest.addSupplier(SupplierServiceImplTest.java:47)
+
